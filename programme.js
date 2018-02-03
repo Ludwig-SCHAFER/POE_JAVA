@@ -80,13 +80,13 @@ let modules = [
 	{name:"Java - Les fondamentaux et le développement JavaSE",	duration:5,	coach:"Aymeric L", start:"2018-01-16"},
 	{name:"JPA - Persistence des données (Hibernate)",			duration:3,	coach:"Alexandre T", start:"2018-01-23"},
 	{name:"Java - Programmation client",						duration:3,	coach:"Yves D", start:"2018-01-26"},
-	{name:"JavaEE - Mise en œuvre des services",				duration:5,	coach:"?", start:"2018-01-31"},
-	{name:"JavaEE - Développement web",							duration:5,	coach:"?", start:"2018-02-07"},
-	{name:"JSF 2 - Java Server Faces",							duration:3,	coach:"?", start:"2018-02-14"},
-	{name:"Spring 4 Framework",									duration:5,	coach:"?", start:"2018-02-19"},
-	{name:"Usine logicielle Java",								duration:3,	coach:"?", start:"2018-02-26"},
-	{name:"Sécurité applicative Java",							duration:3,	coach:"?", start:"2018-03-01"},
-	{name:"Travaux pratiques et passage de la certification \"M2i langage de développement orientée Java\"",	duration:2, coach:"?", start:"2018-03-06"}
+	{name:"JavaEE - Mise en œuvre des services",				duration:5,	coach:"Yves D", start:"2018-01-31"},
+	{name:"JavaEE - Développement web",							duration:5,	coach:"Yves D ??", start:"2018-02-07"},
+	{name:"JSF 2 - Java Server Faces",							duration:3,	coach:"Georges A", start:"2018-02-14"},
+	{name:"Spring 4 Framework",									duration:5,	coach:"Jeremy R ??", start:"2018-02-19"},
+	{name:"Usine logicielle Java",								duration:3,	coach:"Jeremy R ??", start:"2018-02-26"},
+	{name:"Sécurité applicative Java",							duration:3,	coach:"Yves D ??", start:"2018-03-01"},
+	{name:"Travaux pratiques et passage de la certification \"M2i langage de développement orientée Java\"",	duration:2, coach:"Judge Dredd ??", start:"2018-03-06"}
 ];
 
 //letiables utilisées pour compter la somme des heures et des jours
