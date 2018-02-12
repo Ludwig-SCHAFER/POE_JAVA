@@ -81,7 +81,7 @@ let modules = [
 	{name:"JPA - Persistence des données (Hibernate)",			duration:3,	coach:"Alexandre T", start:"2018-01-23"},
 	{name:"Java - Programmation client",						duration:3,	coach:"Yves D", start:"2018-01-26"},
 	{name:"JavaEE - Mise en œuvre des services",				duration:5,	coach:"Yves D", start:"2018-01-31"},
-	{name:"JavaEE - Développement web",							duration:5,	coach:"Yves D ??", start:"2018-02-07"},
+	{name:"JavaEE - Développement web",							duration:5,	coach:"Yves D", start:"2018-02-07"},
 	{name:"JSF 2 - Java Server Faces",							duration:3,	coach:"Georges A", start:"2018-02-14"},
 	{name:"Spring 4 Framework",									duration:5,	coach:"Jeremy R ??", start:"2018-02-19"},
 	{name:"Usine logicielle Java",								duration:3,	coach:"Jeremy R ??", start:"2018-02-26"},
